@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25005'
     url: http://www.gutenberg.org/2009/agents/25005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21977#The-Narrative-of-a-Blockade-Runner
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-06-30'
 gutenberg_type: Text
