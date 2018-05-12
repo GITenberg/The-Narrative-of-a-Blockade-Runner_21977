@@ -1,0 +1,36 @@
+_repo: The-Narrative-of-a-Blockade-Runner_21977
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilkinson, J. (John)
+    alias: Wilkinson, John
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '25005'
+    url: http://www.gutenberg.org/2009/agents/25005
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21977'
+  lccn: '02017525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wilkinson, J. (John), 1821-1891'
+- !lcc 'E456'
+- !lcsh 'Admirals -- Southern States -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Naval operations'
+- !lcsh 'New Orleans (La.) -- History -- Capture, 1862'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Blockades'
+- !lcsh 'Confederate States of America. Navy -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+title: The Narrative of a Blockade-Runner
+url: http://www.gutenberg.org/ebooks/21977
